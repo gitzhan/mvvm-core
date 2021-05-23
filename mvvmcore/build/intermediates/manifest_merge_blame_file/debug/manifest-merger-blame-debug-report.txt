@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="21"
-6-->D:\develop\projects\MvvmCore\mvvmcore\src\main\AndroidManifest.xml
+6-->D:\develop\projects\mvvm-core\mvvmcore\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="30" />
-7-->D:\develop\projects\MvvmCore\mvvmcore\src\main\AndroidManifest.xml
+7-->D:\develop\projects\mvvm-core\mvvmcore\src\main\AndroidManifest.xml
 8
 9</manifest>
