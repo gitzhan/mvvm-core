@@ -7,7 +7,7 @@ import android.util.Log
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty
 
-class Preference<T>(
+open class Preference<T>(
     private val name: String,
     private val default: T,
     context: Context,
