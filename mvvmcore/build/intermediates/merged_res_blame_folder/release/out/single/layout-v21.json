@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\3a42abfcb6912c90edec6ae703dfa7a7\\transformed\\core-1.5.0-beta01\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\3a42abfcb6912c90edec6ae703dfa7a7\\transformed\\core-1.5.0-beta01\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\3a42abfcb6912c90edec6ae703dfa7a7\\transformed\\core-1.5.0-beta01\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\3a42abfcb6912c90edec6ae703dfa7a7\\transformed\\core-1.5.0-beta01\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

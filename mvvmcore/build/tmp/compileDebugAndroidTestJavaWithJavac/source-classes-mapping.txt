@@ -1,0 +1,4 @@
+com/superzhan/android/mvvmcore/test/BuildConfig.java
+ com.superzhan.android.mvvmcore.test.BuildConfig
+com/superzhan/android/mvvmcore/test/DataBindingTriggerClass.java
+ com.superzhan.android.mvvmcore.test.DataBindingTriggerClass

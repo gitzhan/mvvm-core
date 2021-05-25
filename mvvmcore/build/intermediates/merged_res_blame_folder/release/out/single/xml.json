@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_offset.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\07151e23633b06a75962179da858ab41\\transformed\\material-1.2.1\\res\\xml\\standalone_badge_offset.xml"
+    },
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_start.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\07151e23633b06a75962179da858ab41\\transformed\\material-1.2.1\\res\\xml\\standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\07151e23633b06a75962179da858ab41\\transformed\\material-1.2.1\\res\\xml\\standalone_badge.xml"
+    },
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_top_start.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\07151e23633b06a75962179da858ab41\\transformed\\material-1.2.1\\res\\xml\\standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "D:\\develop\\projects\\mvvm-core\\mvvmcore\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_end.xml",
+        "source": "D:\\develop\\tools\\Android\\.gradle\\caches\\transforms-3\\07151e23633b06a75962179da858ab41\\transformed\\material-1.2.1\\res\\xml\\standalone_badge_gravity_bottom_end.xml"
+    }
+]

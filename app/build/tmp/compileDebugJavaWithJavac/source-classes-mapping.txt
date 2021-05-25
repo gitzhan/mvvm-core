@@ -1,0 +1,2 @@
+com/superzhan/android/mvvmcore/BuildConfig.java
+ com.superzhan.android.mvvmcore.BuildConfig
